@@ -6,11 +6,11 @@ The purpose of this script is to download the png files from static html content
 
 ## Arguments
 
-- -h help
-- -u URL: The URL to download the PNG images from (mandatory)
-- -o output_directory: The directory to save the downloaded PNG images to (mandatory)
-- -U username: The username for basic authentication (optional)
-- -P password: The password for basic authentication (optional)
+- -h|--help help: Shows the help document
+- -u|--url URL: The URL to download the PNG images from (mandatory)
+- -o|--output output_directory: The directory to save the downloaded PNG images to (mandatory)
+- -U|--username username: The username for basic authentication (optional)
+- -P|--password password: The password for basic authentication (optional)
 
 ## Example usage
 
